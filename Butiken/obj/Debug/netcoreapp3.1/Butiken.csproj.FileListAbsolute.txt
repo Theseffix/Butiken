@@ -1,0 +1,13 @@
+C:\Users\denni\source\repos\Butiken\bin\Debug\netcoreapp3.1\Butiken.exe
+C:\Users\denni\source\repos\Butiken\bin\Debug\netcoreapp3.1\Butiken.deps.json
+C:\Users\denni\source\repos\Butiken\bin\Debug\netcoreapp3.1\Butiken.runtimeconfig.json
+C:\Users\denni\source\repos\Butiken\bin\Debug\netcoreapp3.1\Butiken.runtimeconfig.dev.json
+C:\Users\denni\source\repos\Butiken\bin\Debug\netcoreapp3.1\Butiken.dll
+C:\Users\denni\source\repos\Butiken\bin\Debug\netcoreapp3.1\Butiken.pdb
+C:\Users\denni\source\repos\Butiken\obj\Debug\netcoreapp3.1\Butiken.csprojAssemblyReference.cache
+C:\Users\denni\source\repos\Butiken\obj\Debug\netcoreapp3.1\Butiken.AssemblyInfoInputs.cache
+C:\Users\denni\source\repos\Butiken\obj\Debug\netcoreapp3.1\Butiken.AssemblyInfo.cs
+C:\Users\denni\source\repos\Butiken\obj\Debug\netcoreapp3.1\Butiken.csproj.CoreCompileInputs.cache
+C:\Users\denni\source\repos\Butiken\obj\Debug\netcoreapp3.1\Butiken.dll
+C:\Users\denni\source\repos\Butiken\obj\Debug\netcoreapp3.1\Butiken.pdb
+C:\Users\denni\source\repos\Butiken\obj\Debug\netcoreapp3.1\Butiken.genruntimeconfig.cache
